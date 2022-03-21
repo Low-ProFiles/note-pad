@@ -56,7 +56,9 @@ function NoteDetail() {
                 </div>
             </div>
             <div className="DetailContainer">
-                <div className="DetailTitleBox" style={{ fontSize: 25 }}>제목</div>
+                <div className="DetailTitleBox">
+                    <h2 className="DetailListName">제목</h2>
+                </div>
             </div>
         </div>
     );
