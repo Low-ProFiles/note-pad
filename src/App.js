@@ -1,10 +1,15 @@
 import React from "react";
-import NoteDetail from "./components/NoteDetail";
+import MainNote from "./components/MainNote";
+import SubNote from "./components/SubNote";
+import DetailNote from "./components/DetailNote";
+
 
 function App(){
   return (
     <div>
-      <NoteDetail />
+      <MainNote/>
+      <SubNote/>
+      <DetailNote/>
     </div>
   );
 }

@@ -1,0 +1,25 @@
+.MainListContainer{
+    height: 590px;
+    width : 152px;
+    display: flex;
+    flex-direction: column;
+    background: #f5f5dc;
+    margin-left: 450px;
+    margin-top : 150px;
+    float: left;
+    border : solid;
+}
+
+.MainListBox{
+    border-bottom	: solid;
+    height : 50px;
+    width : 150px;
+    display : flex;
+}
+
+.MainListName{
+    width : 150px;
+    height : 50px;
+    margin: 10px 20px;
+    text-align:center;
+}
