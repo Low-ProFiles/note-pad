@@ -32,7 +32,7 @@ function MainNote() {
                         <h3 className="MainListName">라벨5(4)</h3>
                     </div>
                 </href>
-                <div className="MainListBox" style={{marginTop : 150}}>
+                <div className="MainListBox" style={{borderTop : 'solid', position:'fixed', bottom:224.5}}>
                     <h3 className="MainListName">추가하기</h3>
                 </div>
             </div>
