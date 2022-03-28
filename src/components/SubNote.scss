@@ -1,32 +1,32 @@
-.SubListContainer{
-    height: 590px;
-    width : 250px;
-    background: #f5f5dc;
-    margin-left: 100px;
-    margin-top : 150px;
-    float: left;
-    border-style: solid;
+.SubListContainer {
+  height: 590px;
+  width: 250px;
+  background: #f5f5dc;
+  margin-left: 100px;
+  margin-top: 100px;
+  float: left;
+  border-style: solid;
 }
 
-.SubListBox{
-    border-bottom	: solid;
-    height : 65px;
-    width : 250px;
-    display : flex;
+.SubListBox {
+  border-bottom: solid;
+  height: 65px;
+  width: 250px;
+  display: flex;
 }
 
-.SubListName{
-    width : 70px;
-    height : 50px;
-    margin-left: 20px;
+.SubListName {
+  width: 70px;
+  height: 50px;
+  margin-left: 20px;
 }
 
-.SubListContent{
-    flex-direction: column;
-    font-size:14px;
+.SubListContent {
+  flex-direction: column;
+  font-size: 14px;
 }
 
-.SubListDate{
-    flex-direction: column;
-    font-size:10px;
+.SubListDate {
+  flex-direction: column;
+  font-size: 10px;
 }
